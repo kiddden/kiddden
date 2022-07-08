@@ -1,5 +1,5 @@
 ## About Me:
-I'm self-taught Junior iOS Dev, passionate about SwiftUI and currently working on enemyLossesDashboardApp and budgetize.<br>
+I'm self-taught Junior iOS Dev, passionate about SwiftUI and currently studying Software Engineering at FIT, KNU.<br>
 - 🔭 I’m currently working on [enemy losses dashboard app](https://github.com/kiddden/enemyLossesDashboardApp) and [budgetize](https://github.com/Tripple-K/budgetize) - finance tracking app.
 
 ## 💻 Tech Stack:

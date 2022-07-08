@@ -18,6 +18,4 @@ I'm self-taught Junior iOS Dev, passionate about SwiftUI and currently working o
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kiddden&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddden&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 

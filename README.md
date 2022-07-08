@@ -1,8 +1,3 @@
-
-## Hi there 👋
-
-**kiddden/kiddden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # About Me:
 I'm self-taught Junior iOS Dev, passionate about SwiftUI and currently working on enemyLossesDashboardApp and budgetize.<br>
 - 🔭 I’m currently working on [enemy losses dashboard app](https://github.com/kiddden/enemyLossesDashboardApp) and [budgetize](https://github.com/Tripple-K/budgetize) - finance tracking app.

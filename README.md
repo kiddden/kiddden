@@ -10,9 +10,10 @@ I'm self-taught Junior iOS Dev, passionate about SwiftUI and currently studying 
 - [Telegram](https://t.me/kidden)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kiddden&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
+
+![](https://readme-stats.clckblog.space/?username=kiddden&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kiddden&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddden&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://readme-stats.clckblog.space/api/top-langs/?username=kiddden&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 

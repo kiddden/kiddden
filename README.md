@@ -1,5 +1,5 @@
 ## About Me:
-I'm self-taught Junior iOS Dev, passionate about SwiftUI and currently studying Software Engineering at FIT, KNU.<br>
+I'm self-taught iOS Dev, passionate about SwiftUI but with solid knowlenge of both SwiftUI and UIKit, currently studying Software Engineering at FIT, KNU.<br>
 <!-- - I’m currently working on [russian losses iOS dashboard app](https://github.com/kiddden/enemyLossesDashboardApp) and [budgetize](https://github.com/Tripple-K/budgetize) - finance tracking app. -->
 
 ## 💻 Tech Stack:

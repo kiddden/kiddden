@@ -1,6 +1,7 @@
 ## About Me:
-I'm self-taught iOS Dev, passionate about SwiftUI but with solid knowlenge of both SwiftUI and UIKit, currently studying Software Engineering at FIT, KNU.<br>
-<!-- - I’m currently working on [russian losses iOS dashboard app](https://github.com/kiddden/enemyLossesDashboardApp) and [budgetize](https://github.com/Tripple-K/budgetize) - finance tracking app. -->
+I'm an iOS Developer with a strong passion for SwiftUI and solid expertise in both SwiftUI and UIKit. I hold a degree in Computer Software Engineering and have 3 years of professional experience.
+
+Currently working on an app that read racing games telemetry data for further analysis.
 
 ## 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-F54A2A?style=flat&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![UIKit](https://img.shields.io/badge/UIKit-F54A2A?style=flat&logo=swift&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-F54A2A?style=flat&logo=swift&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Alamofire](https://img.shields.io/badge/Alamofire-F54A2A?style=flat&logo=swift&logoColor=white)

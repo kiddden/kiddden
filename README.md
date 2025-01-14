@@ -3,9 +3,6 @@ I'm an iOS Developer with a strong passion for SwiftUI and solid expertise in bo
 
 Currently working on an app that processes racing games telemetry data for further analysis.
 
-## 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-F54A2A?style=flat&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![UIKit](https://img.shields.io/badge/UIKit-F54A2A?style=flat&logo=swift&logoColor=white) ![Combine](https://img.shields.io/badge/Combine-F54A2A?style=flat&logo=swift&logoColor=white)  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Alamofire](https://img.shields.io/badge/Alamofire-F54A2A?style=flat&logo=swift&logoColor=white)
-
 ## 🌐 My socials:
 - [LinkedIn](https://www.linkedin.com/in/e-ned/)
 - [Telegram](https://t.me/e_ned)
